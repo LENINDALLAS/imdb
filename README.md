@@ -1,2 +1,2 @@
 # imdb
-check out deployed imdb
+check out deployed imdb:- imdb-frontend.netlify.app
